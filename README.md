@@ -1,4 +1,4 @@
-# Math visualized 📈
+# Math visualized
 
 #### Matemática visualizada 🍎
 
